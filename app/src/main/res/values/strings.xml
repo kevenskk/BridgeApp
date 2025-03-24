@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Bridge Company</string>
+
+
+    <string-array name="state_array">
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Poor</item>
+
+    </string-array>
+
+    <string name="action_delete"
+        />
+
+
+    <string name="dialog_message">
+
+        Are you sure want to delete all reports?
+    </string>
+    <string name="dialog_title">Delete All Dialog</string>
+
+</resources>
